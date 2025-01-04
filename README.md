@@ -4,12 +4,14 @@ mysql文件以及打包可执行文件见百度网盘，我不太会上传至git
 链接: https://pan.baidu.com/s/11QQasPWUwuGxZYATzcHB2Q?pwd=82nt 提取码: 82nt 
 --来自百度网盘超级会员v4的分享
 初始界面为登录界面，用户名密码为123，不支持注册，数据库名test，连接密码自己在数据库脚本改，只有一个数据库脚本
+
 ![image](https://github.com/user-attachments/assets/f6c7ca42-66b0-4f36-9c85-3f929a6d1fc4)
 
 进入第一个场景首先自动播放放在rawImage里面的视频，按空格暂停，L继续
 按wasd进行移动，上下键调节声音大小，调节同时人物移动；
 按f进行摄像头漫游，按左键有响声，靠近门点击门可以开关;
 进入最后一个场景在五角星芒阵按左键触发传送门打开，穿过回到登录界面;
+
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/8ea5a4e8-4b84-4510-aa2f-b72c2c10bc3c" />
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ffb69d6-015b-41b7-b3f8-ce145aa18fd0" />
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/1b90d837-b4b8-4774-9693-588e438de445" />
